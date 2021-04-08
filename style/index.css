@@ -1,1 +1,29 @@
 /* Add CSS styling here */
+.top{
+    display:flex;
+    font-family:arial;
+    font-size:1rem;
+    color: black;
+
+}
+
+.top nav{
+    display: flex;
+    justify-content: flex-end;
+    width:80%;
+}
+
+nav a{
+    display:flex;
+    text-decoration: none;
+    width:30%;
+    height: 60%;
+    justify-content:center;
+    align-items: center;
+    color: black;
+    font-size:1rem;
+    padding:5px;
+    border:1px solid black;
+    margin: 15px;
+}
+
