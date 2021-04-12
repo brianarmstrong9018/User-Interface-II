@@ -121,19 +121,9 @@ section{
     .top{
         display: flex;
         flex-direction: column;
-        justify-content: center;
     }
 
     nav a{
         width:200px;
         height: 100px;
-    }
-
-    .big-center{
-        width: 100%;
-    }
-
-    .center-text{
-        display: flex;
-        justify-content: center;
     }
